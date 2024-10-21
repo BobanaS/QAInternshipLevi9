@@ -1,0 +1,18 @@
+{"books":[
+    {"id":1,
+    "name":"Novi kraj",
+    "author":"Djurdjica Cilic",
+    "companyName":"Booka"
+    },
+    {"id":2,
+    "name":"Zavera Budala",
+    "author":"Dzon Kenedi Tul",
+    "companyName":"Clio"
+    },
+    {"id":3,
+    "name":"Kod kuce je najgore",
+    "author":"Efraim Kison",
+    "companyName":"Book"
+    }
+]
+}
