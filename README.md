@@ -5,7 +5,8 @@ Repository contains two branches:
 ## main
 ## Knjizara
 
-**Knjizara**.
+
+**Knjizara branch**
 
 
 You have 3 folders: Images, descriptions, and jsons.
