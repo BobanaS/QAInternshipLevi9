@@ -1,21 +1,24 @@
 # QAInternshipLevi9
 
 Repository contains two branches:
-*** main
-*** Knjizara.
+
+**main**
+
+**Knjizara**.
 
 
 You have 3 folders: Images, descriptions, and jsons.
 
 
-# Images
+**Images*
+
 Pictures of products are in this folder. Pictures are jpg format.
 
-# Descriptions
+**Descriptions*
 
 Descriptions of products are in this folder. Descriptions are txt format.
 
-# Jsons
+**Jsons*
 
 Json files with products informationes are in this folder. Json files are json format.
 
