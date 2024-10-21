@@ -2,5 +2,9 @@
     "id":1,
     "name":"Novi kraj",
     "company":"Booka",
-    "price":891.00
+    "price":891.00,
+    "delivery addreses":[
+        "Bulevar oslobodjenja 1",
+        "Narodnog fronta 4"
+        ]
 }

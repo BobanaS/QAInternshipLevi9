@@ -2,5 +2,11 @@
     "id":2,
     "name":"Zavera budala",
     "company":"Clio",
-    "price":792.00
+    "price":792.00,
+    "delivery addreses":[
+        "Bulevar oslobodjenja 1",
+        "Narodnog fronta 4",
+        "Sekspirova 21"
+    ]
+    
 }

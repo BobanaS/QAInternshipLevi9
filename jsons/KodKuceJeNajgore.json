@@ -2,5 +2,9 @@
     "id":3,
     "name":"Kod kuce je najgore",
     "company":"Book",
-    "price":712.80
+    "price":712.80,
+    "delivery addreses":[
+        "Narodnog fronta 4",
+        "Sekspirova 21"
+    ]
 }
