@@ -1,0 +1,10 @@
+{
+    "id":1,
+    "firstName":"Petar",
+    "lastName":"Petrovic",
+    "city":"Novi Sad",
+    "books":[
+        "Zavera Budala",
+        "Novi kraj"
+    ]
+}
