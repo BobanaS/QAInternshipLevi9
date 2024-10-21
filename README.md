@@ -1,10 +1,10 @@
 # QAInternshipLevi9
 
-Repository contains two branches:
+Repository contains three branches:
 
 ## main
 ## Knjizara
-
+## Korisnik
 
 **Knjizara branch**
 
@@ -24,3 +24,7 @@ Descriptions of products are in this folder. Descriptions are txt format.
 
 Json files with products informationes are in this folder. Json files are json format.
 
+
+**Korisnik branch**
+
+Contains user's json files.
